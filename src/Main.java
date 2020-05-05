@@ -10,6 +10,7 @@ public class Main {
         System.out.println("3. Polozhitelnoe/Otricatelnoe");
         System.out.println("4. True False pri otricatelnom");
         System.out.println("5. Visokosnii god");
+        System.out.println("");
 
         // выбираем пункт из домашнего задания
 
